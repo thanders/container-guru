@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --allow-read --allow-env --watch main.tsx --dev",
+    "serve": "deno run --allow-net --allow-read --allow-env --no-check main.tsx",
+    "update": "deno cache --lock=deno.lock --lock-write dev_deps.ts",
+    "install": "deno cache --reload --lock=deno.lock dev_deps.ts"
+  },
+  "imports": {
+    "blog": "https://deno.land/x/blog@0.7.0/blog.tsx"
+  }
+}

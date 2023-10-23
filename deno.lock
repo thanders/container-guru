@@ -1,0 +1,16 @@
+{
+  "version": "3",
+  "remote": {
+    "https://deno.land/x/seo@v0.1.41/mod.ts": "f106bbd9697c9cddb6689ef5e8d5593f0398b4a904e375d70925dabcc7e11fed",
+    "https://deno.land/x/seo@v0.1.41/src/enums/schemaContextEnum.ts": "584543e803b82727d8c71f2618674f33ab549c3ce35486fa69daa5d52992b827",
+    "https://deno.land/x/seo@v0.1.41/src/enums/schemaTypeEnum.ts": "55f9de79304f1651d55b6b796887f6656a81bf75d662d24f18949d1d56c23dcc",
+    "https://deno.land/x/seo@v0.1.41/src/generateMarkup.ts": "645f7c9164dbb0a49c1aeb9dc766bd709058b5334b2353c665bd7322d19900e5",
+    "https://deno.land/x/seo@v0.1.41/src/schemaGenerators/generateArticle.ts": "6d9ce9270dbe59c2c65ad4b0f12a5d7de091fe3605474c7aceada1f245a93023",
+    "https://deno.land/x/seo@v0.1.41/src/schemaGenerators/generateBlogPosting.ts": "556ebd44ff736cb38b08f424709f665ff44fd2374296e1d9a8c93803774fdaa7",
+    "https://deno.land/x/seo@v0.1.41/src/types/articleSchemaType.ts": "57ab4d3f84b2dd5b482b8be122ce631156bb13ed522675361747bd4ed63b71d8",
+    "https://deno.land/x/seo@v0.1.41/src/types/articleType.ts": "3149c79b0e41e52f9eebb00de4dedc5d2dc9043813e44661869a088e0d290d00",
+    "https://deno.land/x/seo@v0.1.41/src/types/blogPostingSchemaType.ts": "fb590e10239ff5e87f1bfae21385a1c9aca7ebf091dba91e4b0b3bac65e394a4",
+    "https://deno.land/x/seo@v0.1.41/src/types/person.ts": "b9e0a34573e95a4381d05746e12ac57dd6f8392d79c25c603ee41cf010d34b57",
+    "https://deno.land/x/seo@v0.1.41/src/types/schemaTypes.ts": "33c2df331c803b73cbd52ec1c51fc3a2764124529e5d74f0051c8db468d73201"
+  }
+}
